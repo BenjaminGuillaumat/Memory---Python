@@ -1,4 +1,4 @@
-# Memory---Python
+# Memory -- Projet Python -- Benjamin Guillaumat
 
 Développement d'un jeu Memory en Python - De la conception au développement
 
